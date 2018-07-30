@@ -10,5 +10,8 @@ Useful resources to learn lifelong learning
 6. [Lifelong Machine Learning and Reasoning](https://www.researchgate.net/publication/286920204_Lifelong_Machine_Learning_and_Reasoning)<br />
 7. [Lifelong Machine Learning Synthesis Lectures on Artificial Intelligence and Machine Learning](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627058773_sample.pdf)<br />
 8. [Lifelong Learning for Sentiment Classification](https://arxiv.org/pdf/1801.02808.pdf)<br />
-9. [Lifelong machine learning: a paradigm for continuous learning](https://link.springer.com/article/10.1007%2Fs11704-016-6903-6)<bt />
-10.[Multi-Task and Lifelong Learning with Unlabeled Tasks] (https://cvml.ist.ac.at/talks/hse2016.pdf)<br />
+9. [Lifelong machine learning: a paradigm for continuous learning](https://link.springer.com/article/10.1007%2Fs11704-016-6903-6)<br />
+10. [Multi-Task and Lifelong Learning with Unlabeled Tasks] (https://cvml.ist.ac.at/talks/hse2016.pdf)<br />
+11. [Foundations for a New Science of Learning](http://science.sciencemag.org/content/325/5938/284.full)<br />
+12. [A Lifelong Learning Perspective for Mobile Robot Control](https://www.sciencedirect.com/science/article/pii/B9780444822505500153)<br />
+12. [The design of personal mobile technologies for lifelong learning](https://www.sciencedirect.com/science/article/pii/S0360131599000445)<br />
