@@ -11,7 +11,12 @@ Useful resources to learn lifelong learning
 7. [Lifelong Machine Learning Synthesis Lectures on Artificial Intelligence and Machine Learning](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627058773_sample.pdf)<br />
 8. [Lifelong Learning for Sentiment Classification](https://arxiv.org/pdf/1801.02808.pdf)<br />
 9. [Lifelong machine learning: a paradigm for continuous learning](https://link.springer.com/article/10.1007%2Fs11704-016-6903-6)<br />
-10. [Multi-Task and Lifelong Learning with Unlabeled Tasks] (https://cvml.ist.ac.at/talks/hse2016.pdf)<br />
+10. [Multi-Task and Lifelong Learning with Unlabeled Tasks](https://cvml.ist.ac.at/talks/hse2016.pdf)<br />
 11. [Foundations for a New Science of Learning](http://science.sciencemag.org/content/325/5938/284.full)<br />
 12. [A Lifelong Learning Perspective for Mobile Robot Control](https://www.sciencedirect.com/science/article/pii/B9780444822505500153)<br />
 12. [The design of personal mobile technologies for lifelong learning](https://www.sciencedirect.com/science/article/pii/S0360131599000445)<br />
+13. [Review Machine learning: Trends, perspectives, and prospects](http://science.sciencemag.org/content/349/6245/255)<br />
+14. [Lifelong Learning MaxEnt for Suggestion Classification ](http://eprints.uet.vnu.edu.vn/eprints/2980/)<br />
+15. [State Abstractions for Lifelong Reinforcement Learning](http://proceedings.mlr.press/v80/abel18a.html)<br />
+16. [Policy and Value Transfer in Lifelong Reinforcement Learning](http://proceedings.mlr.press/v80/abel18b.html)<br />
+17. [Subset Replay Based Continual Learning for Scalable Improvement of Autonomous Systems](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Brahma_Subset_Replay_Based_CVPR_2018_paper.pdf)<br />
